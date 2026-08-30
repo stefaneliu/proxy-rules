@@ -1,0 +1,16 @@
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,console.cloud.tencent.com
+DOMAIN-KEYWORD,netmarble
+DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,thetvdb
+DOMAIN-KEYWORD,xmcdn
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
+DOMAIN-KEYWORD,prod.brass.cloud.cupronickel.goog
+DOMAIN-KEYWORD,prod.zinc.cloud.cupronickel.goog
+DOMAIN-KEYWORD,docker.com
+DOMAIN-KEYWORD,qobuz
+DOMAIN-KEYWORD,pincong.rocks
+DOMAIN-KEYWORD,nezha.lyhlyh.xyz
