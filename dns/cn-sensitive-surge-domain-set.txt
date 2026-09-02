@@ -18,6 +18,7 @@
 .autonavi.com
 .cainiao.com
 .cainiao-inc.com
+.freshippo.com
 .hema.com
 .hemamax.com
 .goofish.com
