@@ -272,7 +272,6 @@ DOMAIN-KEYWORD,tu.edu
 DOMAIN-KEYWORD,ucdavis.edu
 DOMAIN-KEYWORD,uchastings.edu
 DOMAIN-KEYWORD,uci.edu
-DOMAIN-KEYWORD,ucla.edu
 DOMAIN-KEYWORD,uclaextension.edu
 DOMAIN-KEYWORD,ucmerced.edu
 DOMAIN-KEYWORD,ucop.edu
@@ -568,7 +567,6 @@ DOMAIN-KEYWORD,jmls.edu
 DOMAIN-KEYWORD,judsonu.edu
 DOMAIN-KEYWORD,kaskaskia.edu
 DOMAIN-KEYWORD,kcc.edu
-DOMAIN-KEYWORD,iit.edu
 DOMAIN-KEYWORD,kishwaukeecollege.edu
 DOMAIN-KEYWORD,knox.edu
 DOMAIN-KEYWORD,lakeforest.edu
@@ -612,13 +610,11 @@ DOMAIN-KEYWORD,src.edu
 DOMAIN-KEYWORD,ssc.edu
 DOMAIN-KEYWORD,stfrancis.edu
 DOMAIN-KEYWORD,swic.edu
-DOMAIN-KEYWORD,scu.edu
 DOMAIN-KEYWORD,trnty.edu
 DOMAIN-KEYWORD,uchicago.edu
 DOMAIN-KEYWORD,uic.edu
 DOMAIN-KEYWORD,uillinois.edu
 DOMAIN-KEYWORD,uis.edu
-DOMAIN-KEYWORD,illinois.edu
 DOMAIN-KEYWORD,waubonsee.edu
 DOMAIN-KEYWORD,wheaton.edu
 DOMAIN-KEYWORD,wiu.edu
@@ -1377,7 +1373,6 @@ DOMAIN-KEYWORD,wooster.edu
 DOMAIN-KEYWORD,wright.edu
 DOMAIN-KEYWORD,xavier.edu
 DOMAIN-KEYWORD,ysu.edu
-DOMAIN-KEYWORD,osu.edu
 DOMAIN-KEYWORD,cameron.edu
 DOMAIN-KEYWORD,connorsstate.edu
 DOMAIN-KEYWORD,ecok.edu
@@ -1550,7 +1545,6 @@ DOMAIN-KEYWORD,uri.edu
 DOMAIN-KEYWORD,ric.edu
 DOMAIN-KEYWORD,risd.edu
 DOMAIN-KEYWORD,rwu.edu
-DOMAIN-KEYWORD,uri.edu
 DOMAIN-KEYWORD,centura.edu
 DOMAIN-KEYWORD,citadel.edu
 DOMAIN-KEYWORD,ciu.edu
@@ -1817,7 +1811,6 @@ DOMAIN-KEYWORD,neci.edu
 DOMAIN-KEYWORD,norwich.edu
 DOMAIN-KEYWORD,sit.edu
 DOMAIN-KEYWORD,smcvt.edu
-DOMAIN-KEYWORD,uvm.edu
 DOMAIN-KEYWORD,uvm.edu
 DOMAIN-KEYWORD,vermontlaw.edu
 DOMAIN-KEYWORD,vtc.edu
