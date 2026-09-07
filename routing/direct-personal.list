@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,roon
 DOMAIN-KEYWORD,rosettastone
 DOMAIN-KEYWORD,maya
 IP-CIDR6,::ffff:192.168.2.14/32,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
 DOMAIN-KEYWORD,seagm.com
 DOMAIN-KEYWORD,52dic.vip
 DOMAIN-KEYWORD,xiaoya.host
